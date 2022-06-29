@@ -1,1 +1,1 @@
-# Ici nous avons rédigé le maximum d'algorithme de codage utiliser pendant les transmissions de données.
+# Ici nous avons rédigé le maximum d'algorithmes de codage utilisés pendant les transmissions de données.
